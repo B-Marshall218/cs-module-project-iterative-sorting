@@ -7,7 +7,15 @@
 ## Objectives
 
 - describe the differences between Linear and Binary Search algorithms
+
+Linear searches are good for unsorted data. They go through each item one at a time and put them in one category or the other. It takes a long time, but you are guaranteed to get the result 
+Binary Searches isolate the middle of the data and then categorize half the numbers into one side or the other. The search then continues halfing your data until you are left with one answer. 
+
+
 - define what runtime complexity is, differentiate between various classifications and categorize the performance of an algorithm using Big O notation
+
+runtime complexity is how complex the code is and its affect on the length of time for the algorithm to run. 
+
 - distinguish when to use, classify the performance, and implement code to conduct classic iterative sorting algorithms
 
 ## Introduction
